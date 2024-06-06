@@ -3,6 +3,6 @@ load("@rules_cc//cc:defs.bzl", "cc_binary")
 
 # bazel build //main:P4994
 cc_binary(
-    name = "P1",
-    srcs = ["P1-100/P1.cc"],
+    name = "P7",
+    srcs = ["P1-10/P7.cc"],
 )
